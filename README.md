@@ -6,3 +6,5 @@ What's new
 + Fixed activity navigation issue<br>
 + Updated <i>EditText</i> Hints<br>
 + Update filenames
+
+Original code author: [Jstnldrs05 ](https://github.com/Jstnldrs05)

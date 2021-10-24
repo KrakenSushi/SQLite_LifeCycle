@@ -1,5 +1,5 @@
 # SQLite LifeCycle
-![Screenshots](https://i.ibb.co/JdgkD4B/Untitled.png)
+![Screenshots](https://i.ibb.co/LQ21TQN/Untitled.png)
 What's new
 
 + Primary Key ID reset on deletion of all records<br>
